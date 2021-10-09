@@ -1,6 +1,7 @@
 # Senior Blockchain Smart Contract Developer
-# Welcome!  💪    Thank you for your interest in my profile 👋
-## Thank you for your interest in my profile!
+## Welcome!  💪    
+## Thank you for your interest in my profile! 👋
+
 ### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, dApp, Solidity, Rust, Golang, Python, ElectronJS, POS(Point of Sale), C# WPF XAML UWP
 
 As a senior blockchain developer with 4+ years of experience in Solidity & 2+ years of experience in Rust,  I used to work on several DeFi and NFT projects.
