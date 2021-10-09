@@ -18,8 +18,8 @@ What tools do I use for solidity smart contract development?  :   Hardhat (stron
 I’m also very familiar with  GraphQL.
 
 Below are my previous projects I’ve worked on in the past.
-        https://www.cook.finance/
-        https://chainguardians.io/
+ *       https://www.cook.finance/
+ *       https://chainguardians.io/
         https://traxfolio.com/
         https://www.vegawallet.com/
         https://quickx.io/
