@@ -7,7 +7,7 @@
 <br/>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝ If you can't handle stress, you won't manage success. ❞</i>
+<i> ### ❝ If you can't handle stress, you won't manage success. ❞ </i>
 <!--ENDS_HERE_QUOTE_README-->
 
 
