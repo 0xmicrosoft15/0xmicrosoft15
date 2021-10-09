@@ -19,17 +19,17 @@ I’m also very familiar with  GraphQL.
 
 Below are my previous projects I’ve worked on in the past.
  *       https://www.cook.finance/
- *       https://chainguardians.io/
-        https://traxfolio.com/
-        https://www.vegawallet.com/
-        https://quickx.io/
-        https://solanart.io/
-        https://spiderswap.finance/
-        https://growyourcrypto.io/
-        https://coinboxfinance.com
-        https://zenchipprime.com
-        https://bitso.com
-        https://globiance.com/
+         https://chainguardians.io/
+         https://traxfolio.com/
+         https://www.vegawallet.com/
+         https://quickx.io/
+         https://solanart.io/
+         https://spiderswap.finance/
+         https://growyourcrypto.io/
+         https://coinboxfinance.com
+         https://zenchipprime.com
+         https://bitso.com
+         https://globiance.com/
 
 
 I hope you’ll be interested in my career/ability/experience.
