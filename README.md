@@ -127,7 +127,7 @@
 </table>
 
 
-#### Interests
+#### Skills/Experience
 - Blockchain Technology, Smart Contract
 - dApp, DeFi, NFT
 - Solidity, Rust, Golang, C++, Python
