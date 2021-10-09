@@ -13,8 +13,7 @@
 
 <table align="center">
   <tbody>
-    <tr valign="top">
-      <tr valign="top">      
+    <tr valign="top">   
         <td width="20%" align="center">
           <span>Bitcoin</span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/bitcoin.svg">
@@ -22,6 +21,10 @@
         <td width="20%" align="center">
           <span>Ethereum</span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/ethereum.svg">
+        </td>      
+        <td width="20%" align="center">
+          <span>Solidity</span><br><br><br>
+          <img height="64px" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png">
         </td>
         <td width="20%" align="center">
           <span>Ethereum</span><br><br><br>
@@ -31,11 +34,8 @@
           <span>Ethereum</span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
         </td>
-        <td width="20%" align="center">
-          <span>Web Scraping</span><br><br><br>
-          <img height="64px" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png">
-        </td>
       </tr>
+    <tr valign="top">      
       <td width="20%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
@@ -52,9 +52,13 @@
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
+      <td width="20%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
     </tr>  
     <tr valign="top">
-    <td width="20%" align="center">
+      <td width="20%" align="center">
         <span>Mongo</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
@@ -70,6 +74,10 @@
         <span>Redis</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
       </td>
+      <td width="20%" align="center">
+        <span>GraphQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
@@ -80,16 +88,9 @@
         <span>Flask</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/flask.svg">
       </td>
-       
       <td width="20%" align="center">
         <span>Django</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
@@ -98,10 +99,6 @@
       <td width="20%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>      
-      <td width="20%" align="center">
-        <span>GraphQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
     </tr>
   </tbody>
