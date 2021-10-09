@@ -2,7 +2,7 @@
 ## Welcome!  💪    
 ## Thank you for your interest in my profile! 👋
 
-### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, dApp, Solidity, Rust, Golang, Python, ElectronJS, POS(Point of Sale), C# WPF XAML UWP
+### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, Solana, Cardano, Chainlink, dApp, Solidity, Rust, Golang, Python, ElectronJS, POS(Point of Sale), C# WPF XAML UWP, React, Vue, Angular, Javascript/Typescript, Node.js, Web3.js, Ethers.js
 
 As a senior blockchain developer with 4+ years of experience in Solidity & 2+ years of experience in Rust,  I used to work on several DeFi and NFT projects.
 Here is my resume,  please take a look then you could understand my skills & career much better.
