@@ -4,8 +4,10 @@
 
 ### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, Solana, Cardano, Binance Smart Chain, Chainlink, dApp, Solidity, Rust, Golang, Python, ElectronJS, POS(Point of Sale), C# WPF XAML UWP, React, Vue, Angular, Javascript/Typescript, Node.js, Web3.js, Ethers.js,  GraphQL
 
+<br/>
+
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you cant handle stress, you wont manage success.”❞</i>
+<i>❝ If you cant handle stress, you wont manage success. ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <table align="center">
