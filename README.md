@@ -11,10 +11,10 @@ As a senior blockchain developer with 4+ years of experience in Solidity & 2+ ye
 >> Also,  I’d like to share my LinkedIn profile]           
                      https://www.linkedin.com/in/zh-jing-150805200/
 
-What blockchain networks I’ve worked with?   : Ethereum,  Solana,  Polygon,  BSC (Binance Smart Chain),  Cardano,  Polkadot
-What languages/frameworks I’m experienced with?  :  Solidity, Rust,  Golang, C++,     Node.js, Python, Ruby, C#,   web3.js, ethers.js,  Typescript/JavaScript, Vue.js, React.js, Angular.js,   …   
-What database am I familiar with?   :   MySQL, PostgreSQL, MSSQL, InfluxDB,     MongoDB, DynamoDB,  …
-What tools do I use for solidity smart contract development?  :   Hardhat (strong), Truffle,  Remix
+- What blockchain networks I’ve worked with?   : Ethereum,  Solana,  Polygon,  BSC (Binance Smart Chain),  Cardano,  Polkadot
+- What languages/frameworks I’m experienced with?  :  Solidity, Rust,  Golang, C++,     Node.js, Python, Ruby, C#,   web3.js, ethers.js,  Typescript/JavaScript, Vue.js, React.js, Angular.js,   …   
+- What database am I familiar with?   :   MySQL, PostgreSQL, MSSQL, InfluxDB,     MongoDB, DynamoDB,  …
+- What tools do I use for solidity smart contract development?  :   Hardhat (strong), Truffle,  Remix
 I’m also very familiar with  GraphQL.
 
 Below are my previous projects I’ve worked on in the past.
