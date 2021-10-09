@@ -1,4 +1,4 @@
-### Hello Everyone 👋
+# Hello Everyone 👋
 ## Thank you for your interest in my profile!
 
 I’m really excited to have a chance to apply for your company.
