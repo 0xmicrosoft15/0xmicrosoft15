@@ -1,4 +1,5 @@
 # Senior Blockchain Smart Contract Developer
+# Welcome!  💪    Thank you for your interest in my profile 👋
 ## Thank you for your interest in my profile!
 ### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, dApp, Solidity, Rust, Golang, Python, ElectronJS, POS(Point of Sale), C# WPF XAML UWP
 
