@@ -27,11 +27,11 @@
           <img height="64px" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png">
         </td>
         <td width="20%" align="center">
-          <span>Ethereum</span><br><br><br>
+          <span>Rust</span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
         </td>
         <td width="20%" align="center">
-          <span>Ethereum</span><br><br><br>
+          <span>Golang</span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
         </td>
       </tr>
