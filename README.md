@@ -14,101 +14,93 @@
 <table align="center">
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <tr valign="top">      
+        <td width="20%" align="center">
+          <span>Bitcoin</span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/bitcoin.svg">
+        </td>
+        <td width="20%" align="center">
+          <span>Ethereum</span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/ethereum.svg">
+        </td>
+        <td width="20%" align="center">
+          <span>Ethereum</span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+        </td>
+        <td width="20%" align="center">
+          <span>Ethereum</span><br><br><br>
+          <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
+        </td>
+      </tr>
+      <td width="20%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://www.pngegg.com/en/png-byoxw">
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/csharp.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>  
     <tr valign="top">
-    <td width="25%" align="center">
+    <td width="20%" align="center">
         <span>Mongo</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Postgres</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>SQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Redis</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Node</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Flask</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/flask.svg">
       </td>
-       <td width="25%" align="center">
+       <td width="20%" align="center">
         <span>Web Scraping</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/selenium.svg">
+        <img height="64px" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Django</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>Tailwind</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      <td width="20%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="20%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Gatsby</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Graphql</span><br><br><br>
+      </td>      
+      <td width="20%" align="center">
+        <span>GraphQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Linux</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Bitcoin</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bitcoin.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Ethereum</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ethereum.svg">
       </td>
     </tr>
   </tbody>
@@ -117,8 +109,8 @@
 
 #### Interests
 - Blockchain Technology, DeFi, NFT
+- Ethereum, Solana, Cardano, Polkadot, Polygon, Binance Smart Chain, Chainlink
 - Algorithmic Trading
-- 
 
 As a senior blockchain developer with 4+ years of experience in Solidity & 2+ years of experience in Rust,  I used to work on several DeFi and NFT projects.
 >> Here is my resume,  please take a look then you could understand my skills & career much better.   
