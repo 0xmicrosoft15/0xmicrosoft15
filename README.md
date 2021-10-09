@@ -1,9 +1,10 @@
 # Hello Everyone 👋
-## Thank you for your interest in my profile!
+## Senior Blockchain Smart Contract Developer
+### Thank you for your interest in my profile!
+### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, dApp, Solidity, Rust, Golang, Python, ElectronJS, POS(Point of Sale), C# WPF XAML UWP
 
-I’m really excited to have a chance to apply for your company.
-As a senior blockchain developer with 4+ year of experience in Solidity & Rust,  I used to work on several DeFi and NFT markets.
-Here, I’m attaching my resume  so that you could understand my ability & career better.
+As a senior blockchain developer with 4+ years of experience in Solidity & 2+ years of experience in Rust,  I used to work on several DeFi and NFT projects.
+Here is my resume,  please take a look then you could understand my skills & career much better.
 Also,  I’d like to share my LinkedIn profile link]
           https://www.linkedin.com/in/zh-jing-150805200/
 
@@ -30,7 +31,11 @@ https://globiance.com/
 
 
 I hope you’ll be interested in my career/ability/experience.
-Looking forward to your response.
+Please don't hesitate to reach out to me via email or skype/telegram/discord.
+       Email :       zh.jing0105@outlook.com
+       Skype :       cid.a3ff4aa464011e32
+       Telegram :    @zhjing0105                (  https://t.me/zhjing0105 )
+       Discord :     blockchaindev0105#0611
+       
+Thank you!
 
-Thank you,
-                Zh Jing
