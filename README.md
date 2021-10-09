@@ -31,6 +31,10 @@
           <span>Ethereum</span><br><br><br>
           <img height="64px" src="https://cdn.svgporn.com/logos/gopher.svg">
         </td>
+        <td width="20%" align="center">
+          <span>Web Scraping</span><br><br><br>
+          <img height="64px" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png">
+        </td>
       </tr>
       <td width="20%" align="center">
         <span>𝗖</span><br><br><br>
@@ -76,10 +80,7 @@
         <span>Flask</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/flask.svg">
       </td>
-       <td width="20%" align="center">
-        <span>Web Scraping</span><br><br><br>
-        <img height="64px" src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png">
-      </td>
+       
       <td width="20%" align="center">
         <span>Django</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
