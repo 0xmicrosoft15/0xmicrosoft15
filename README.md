@@ -10,30 +10,21 @@
 <i>❝ If you can't handle stress, you won't manage success. ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-<table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>AWS Certified Solutions Architect</span><br><br><br>
-         <a href= "https://www.credly.com/users/alvaro-serrano.10e7c7ef/badges">
-            <img height="64px" src="https://res.cloudinary.com/aserranorivas/image/upload/v1595832191/thumbnail_aws-certified-solutions-architect-associate_e9dfa9ca49.png">
-        </a>
-      </td>
-      <td width="25%" align="center">
-        <span>AWS Certified Developer Associate</span><br><br><br>
-        <a href= "https://www.credly.com/users/alvaro-serrano.10e7c7ef/badges">
-          <img height="64px" src="https://res.cloudinary.com/aserranorivas/image/upload/v1595832191/thumbnail_aws-certified-developer-associate_9147728113.png">
-        </a>  
-      </td>
-    </tr>   
-  </tbody>
-</table>
+
 <table align="center">
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗖</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖++</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/cpp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/csharp.svg">
       </td>
       <td width="25%" align="center">
         <span>Javascript</span><br><br><br>
