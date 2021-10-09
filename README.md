@@ -101,6 +101,28 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Vue</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Web3.js</span><br><br><br>
+        <img height="64px" src="https://c.gitcoin.co/web3-01.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Ethers.js</span><br><br><br>
+        <img height="64px" src="https://esp.ethereum.foundation/static/f8b753af4c23eb1e1c0896b62a37de8a/69585/ethers-js.png">
+      </td>
+      <td width="20%" align="center">
+        <span>Typescript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
