@@ -17,8 +17,8 @@ What database am I familiar with?   :   MySQL, PostgreSQL, MSSQL, InfluxDB,     
 What tools do I use for solidity smart contract development?  :   Hardhat (strong), Truffle,  Remix
 I’m also very familiar with  GraphQL.
 
-* Below are my previous projects I’ve worked on in the past.
-         https://www.cook.finance/
+Below are my previous projects I’ve worked on in the past.
+   *     https://www.cook.finance/
          https://chainguardians.io/
          https://traxfolio.com/
          https://www.vegawallet.com/
@@ -33,8 +33,8 @@ I’m also very familiar with  GraphQL.
 
 
 I hope you’ll be interested in my career/ability/experience.
-* Please don't hesitate to reach out to me via email or skype/telegram/discord.
-        Email :       zh.jing0105@outlook.com
+Please don't hesitate to reach out to me via email or skype/telegram/discord.
+*       Email :       zh.jing0105@outlook.com
         Skype :       cid.a3ff4aa464011e32
         Telegram :    @zhjing0105                (  https://t.me/zhjing0105 )
         Discord :     blockchaindev0105#0611
