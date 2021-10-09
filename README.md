@@ -4,6 +4,129 @@
 
 ### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, Solana, Cardano, Binance Smart Chain, Chainlink, dApp, Solidity, Rust, Golang, Python, ElectronJS, POS(Point of Sale), C# WPF XAML UWP, React, Vue, Angular, Javascript/Typescript, Node.js, Web3.js, Ethers.js,  GraphQL
 
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝“If you cant handle stress, you wont manage success.”❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>AWS Certified Solutions Architect</span><br><br><br>
+         <a href= "https://www.credly.com/users/alvaro-serrano.10e7c7ef/badges">
+            <img height="64px" src="https://res.cloudinary.com/aserranorivas/image/upload/v1595832191/thumbnail_aws-certified-solutions-architect-associate_e9dfa9ca49.png">
+        </a>
+      </td>
+      <td width="25%" align="center">
+        <span>AWS Certified Developer Associate</span><br><br><br>
+        <a href= "https://www.credly.com/users/alvaro-serrano.10e7c7ef/badges">
+          <img height="64px" src="https://res.cloudinary.com/aserranorivas/image/upload/v1595832191/thumbnail_aws-certified-developer-associate_9147728113.png">
+        </a>  
+      </td>
+    </tr>   
+  </tbody>
+</table>
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>  
+    <tr valign="top">
+    <td width="25%" align="center">
+        <span>Mongo</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Postgres</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>SQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Redis</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Node</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Flask</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/flask.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>Web Scraping</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/selenium.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Django</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Tailwind</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Gatsby</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Graphql</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Linux</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Bitcoin</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bitcoin.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Ethereum</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ethereum.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+#### Interests
+- Blockchain Technology, DeFi, NFT
+- Algorithmic Trading
+- 
+
 As a senior blockchain developer with 4+ years of experience in Solidity & 2+ years of experience in Rust,  I used to work on several DeFi and NFT projects.
 >> Here is my resume,  please take a look then you could understand my skills & career much better.   
                      https://www.dropbox.com/s/iql9bbjz27qfg5z/Resume.pdf?dl=0
