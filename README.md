@@ -20,7 +20,7 @@
       </td>
       <td width="25%" align="center">
         <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/cpp.svg">
+        <img height="64px" src="https://www.pngegg.com/en/png-byoxw">
       </td>
       <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
