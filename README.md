@@ -146,7 +146,7 @@ As a senior blockchain developer with 4+ years of experience in Solidity & 2+ ye
 
 I hope you’ll be interested in my career/ability/experience.
 Please don't hesitate to reach out to me via email or skype/telegram/discord.
-*       Email :       zh.jing0105@outlook.com
+*       Email :       zh.jing0105@gmail.com
         Skype :       cid.a3ff4aa464011e32
         Telegram :    @zhjing0105                (  https://t.me/zhjing0105 )
         Discord :     blockchaindev0105#0611
