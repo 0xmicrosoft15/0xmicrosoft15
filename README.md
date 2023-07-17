@@ -1,6 +1,5 @@
-# Senior Blockchain Architect | Smart Contract Developer | Blockchain Tech Lead
-## Welcome!  💪    
-## Thank you for your interest in my profile! 👋
+# Sr.Blockchain/Web3 engineer | Full-stack developer
+## Welcome 💪 to see Jing's profile! 👋
 
 ### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, Solana, Cardano, Binance Smart Chain, Chainlink, dApp, Solidity, Rust, Golang, Python, ElectronJS, POS(Point of Sale), C# WPF XAML UWP, React, Vue, Angular, Javascript/Typescript, Node.js, Web3.js, Ethers.js,  GraphQL, Team Management, Project Management
 
@@ -143,8 +142,6 @@ As a senior blockchain developer with 4+ years of experience in Solidity & 2+ ye
 - What tools do I use for solidity smart contract development?  :   Hardhat (strong), Truffle,  Remix
 
 
-
-I hope you’ll be interested in my career/ability/experience.
 Please don't hesitate to reach out to me via email or skype/telegram/discord.
 
 Thank you!
