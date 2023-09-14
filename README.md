@@ -1,5 +1,5 @@
 # Sr.Blockchain/Web3 engineer | Full-stack developer
-## Welcome 💪 to see Jing's profile! 👋
+## Welcome 💪 to My profile page! 👋
 
 ### Blockchain, Smart Contract, Ethereum, Bitcoin, Polkadot, Solana, Cardano, Binance Smart Chain, Chainlink, dApp, Solidity, Rust, Golang, Python, ElectronJS, POS(Point of Sale), C# WPF XAML UWP, React, Vue, Angular, Javascript/Typescript, Node.js, Web3.js, Ethers.js,  GraphQL, Team Management, Project Management
 
