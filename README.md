@@ -1,4 +1,5 @@
-# Senior Blockchain Engineer, Full-stack Web2 & Web3 Engineer; bonus pt: Systems Programming
+# Senior Blockchain Engineer, Full-stack Web2 & Web3 Engineer
+### Bonus pt: Systems Programming
 
 Golang, Rust, Move, C++, Solidity, Javascript/Typescript, Python, Java, Node.js
 
