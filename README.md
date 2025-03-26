@@ -2,9 +2,9 @@
 ### Bonus pt: Systems Programming
 
 *** Tip:
-If you're looking for an engineer who is simply affordable and minimally qualified, merely working for a salary, then I'm sorry I may not be the right fit...
+_If you're looking for an engineer who is simply affordable and minimally qualified, merely working for a salary, then I'm sorry I may not be the right fit...
 
-However, IF you're seeking a senior-level expert with deep technical mastery, proven real-world experience, and a passion for driving team success—then let’s talk. I’m available anytime and eager to collaborate!
+However, IF you're seeking a senior-level expert with deep technical mastery, proven real-world experience, and a passion for driving team success—then let’s talk. I’m available anytime and eager to collaborate!_
 
 Open for discussions: 24/7
 ***
